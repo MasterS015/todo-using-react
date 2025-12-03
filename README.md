@@ -1,3 +1,3 @@
-Hello, I've made mhy first todo app using React.js
+Hello everyone, I just made my first To-Do app using React.JS
 
-I've used the concepts of useState, localStorage and useEffect in this app.
+I have used components, props, useState, useEffect and localStorage to make this webapp.
